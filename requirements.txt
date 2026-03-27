@@ -8,4 +8,7 @@ langchain-core
 langchain-community
 langchain-openai
 openai
-tiktoken
+tiktoken 
+
+langchain-groq
+sentence-transformers

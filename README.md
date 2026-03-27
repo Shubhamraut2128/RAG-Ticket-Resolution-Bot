@@ -134,10 +134,15 @@ My payment got deducted but order is not confirmed. What should I do?
 ## 📈 Future Improvements
 
 ⭐ Add PDF / CSV Knowledge Base Upload
+
 ⭐ Add Chat History Memory
+
 ⭐ Deploy on AWS / Render
+
 ⭐ Add Authentication
+
 ⭐ Improve Prompt Engineering
+
 ⭐ Add Hybrid Search (BM25 + Vector)
 
 ---

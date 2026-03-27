@@ -1,5 +1,7 @@
 # 🎯 RAG Ticket Resolution Bot (LangChain + FAISS + Groq)
 
+💻 **Live Demo (Streamlit):** [https://rag-ticket-resolution-bot-kv6bxbc59b2vvpayjpgmw7.streamlit.app/](https://rag-ticket-resolution-bot-kv6bxbc59b2vvpayjpgmw7.streamlit.app/) 
+
 A **Retrieval Augmented Generation (RAG)** based intelligent Support Ticket Resolution System built using **LangChain, FAISS Vector Database, Groq LLM and Streamlit UI.**
 
 This project helps support teams automatically **retrieve similar past tickets and generate AI-based suggested solutions in real-time.**

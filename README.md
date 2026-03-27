@@ -151,7 +151,7 @@ My payment got deducted but order is not confirmed. What should I do?
 
 ## 👨‍💻 Author
 
-**Shubham Raut**
+**Shubham Raut** |
  GenAI Developer | RAG System Builder
 
 ---

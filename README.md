@@ -9,12 +9,19 @@ This project helps support teams automatically **retrieve similar past tickets a
 ## 🚀 Features
 
 ✅ Semantic Search using FAISS
+
 ✅ Fast LLM Response using Groq API
+
 ✅ Retrieval Augmented Generation (RAG) Architecture
+
 ✅ Streamlit Interactive UI
+
 ✅ Real-time Suggested Solution Generation
+
 ✅ Similar Ticket Retrieval
+
 ✅ Scalable Vector Store Architecture
+
 ✅ Modular Code Structure (Production Ready)
 
 ---
